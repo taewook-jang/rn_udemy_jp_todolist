@@ -1,0 +1,3 @@
+rootProject.name = 'rn_udemy_jp_todolist'
+
+include ':app'
